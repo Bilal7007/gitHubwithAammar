@@ -6,4 +6,4 @@
 # dera maza ye okra
 # sanga
 # akhiri 1
-akhiri 2 from remote
+## akhiri 2 from remote
